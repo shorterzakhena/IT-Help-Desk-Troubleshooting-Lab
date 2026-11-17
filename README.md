@@ -1,6 +1,4 @@
 # IT-Help-Desk-Troubleshooting-Lab
-A hands-on Windows IT troubleshooting lab covering network connectivity, system performance, printer settings, application troubleshooting, and user account management.
-
 
 ## Project Overview
 This project demonstrates basic Windows IT troubleshooting skills through hands-on exercises involving network connectivity, computer performance, printer settings, running applications, and account security settings.
