@@ -59,4 +59,6 @@ The Screenshots folder contains images documenting the troubleshooting steps and
 ## Project Results
 The troubleshooting exercises helped me gain hands-on experience with basic IT support tasks and understand how to use Windows tools to investigate common technical issues.
 
-**Note:** This project was completed in a personal Windows environment for educational and portfolio purposes.
+
+
+**Author:** Zakhena Shorter IT Professional | Recent IT Graduate
